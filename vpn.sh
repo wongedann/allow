@@ -25,7 +25,7 @@ fi
 # Mod By SL
 # ==================================================
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/wongedann/allow/main"
+akbarvpn="raw.githubusercontent.com/wongedann/allow/master"
 
 # initialisasi var
 export DEBIAN_FRONTEND=noninteractive
